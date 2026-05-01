@@ -68,6 +68,7 @@ Focused on **performance, clean code, and real-world impact**.
 
 ![Pinecone](https://img.shields.io/badge/-Pinecone%20Cloud-0A2540?style=flat)
 <img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/0c964a9d-28af-4ddf-b991-154f39e46f08" />
+<img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/da22054a-593d-42e6-b996-93e4b409559f" />
 
 ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
