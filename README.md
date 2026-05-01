@@ -18,9 +18,12 @@ Focused on **performance, clean code, and real-world impact**.
 ## 🧠 About Me  
 
 - 🎓 Engineering student with strong interest in **AI, Backend Development, and System Design**  
-- ⚡ Experienced in building **end-to-end applications (Frontend + Backend + ML)**  
-- 🤖 Passionate about **Generative AI, Computer Vision, and Automation**  
-- ☁️ Skilled in deploying scalable systems using **Docker, Kubernetes & Cloud**  
+- ⚡ Experienced in building **end-to-end, production-ready applications (Frontend + Backend + Models)**
+- 🤖 Developed **AI agents for automation** and **RAG-based systems** using modern LLM frameworks   
+- 🔥 Passionate about **Generative AI, Computer Vision, and Automation**  
+- ☁️ Experience in deploying scalable systems using **Docker, Kubernetes & Cloud**
+- 📊 Hands-on experience in working with **real-time data pipelines, analytics, and model integration**
+- 📖 Fine-tuning & model adaptation (basic)
 - 🎯 Goal: Build Build **high-impact, scalable tech products**  
 
 ---
@@ -41,7 +44,7 @@ Focused on **performance, clean code, and real-world impact**.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 
 ---
 
@@ -74,8 +77,8 @@ Focused on **performance, clean code, and real-world impact**.
 ### 🛢️ Vector Databases  
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/24d26e71-070e-48ab-8632-d435438b4b37" height="18" style="margin-right:6px;"/>
-  <img src="https://github.com/user-attachments/assets/da22054a-593d-42e6-b996-93e4b409559f" height="18" style="margin-right:6px;"/>
+  <img src="https://github.com/user-attachments/assets/24d26e71-070e-48ab-8632-d435438b4b37" height="18" style="margin-right:6px; border-radius:6px;"/>
+  <img src="https://github.com/user-attachments/assets/da22054a-593d-42e6-b996-93e4b409559f" height="18" style="margin-right:6px; border-radius:6px;"/>
   <img src="https://img.shields.io/badge/-FAISS-0467DF?style=flat"/>
 </p>
 
