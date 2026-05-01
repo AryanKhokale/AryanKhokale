@@ -17,14 +17,14 @@ Focused on **performance, clean code, and real-world impact**.
 
 ## 🧠 About Me  
 
-- 🎓 Engineering student with strong interest in **AI, Backend Development, and System Design**  
-- ⚡ Experienced in building **end-to-end, scalable & production-ready applications (Backend + Models)**
-- 🤖 Developed **AI agents for automation** and **RAG-based systems** using modern LLM frameworks   
-- 🔥 Passionate about **Generative AI, Computer Vision, and Automation**  
-- ☁️ Experience in deploying scalable systems using **Docker, Kubernetes & Cloud**
-- 📊 Hands-on experience in working with **real-time data pipelines, analytics, and model integration**
-- 📖 Fine-tuning & model adaptation (BASIC)
-- 🎯 Goal: Build Build **high-impact, scalable tech products**  
+-  Engineering student with strong interest in **AI, Backend Development, and System Design**  
+-  Experienced in building **end-to-end, scalable & production-ready applications (Backend + Models)**
+-  Developed **AI agents for automation** and **RAG-based systems** using modern LLM frameworks   
+-  Passionate about **Generative AI, Computer Vision, and Automation**  
+-  Experience in deploying scalable systems using **Docker, Kubernetes & Cloud**
+-  Hands-on experience in working with **real-time data pipelines, analytics, and model integration**
+-  Fine-tuning & model adaptation (BASIC)
+-  Goal: Build Build **high-impact, scalable tech products**  
 
 ---
 
