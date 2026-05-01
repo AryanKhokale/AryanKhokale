@@ -230,6 +230,8 @@ Focused on **performance, clean code, and real-world impact**.
   <!-- Custom Logos -->
   <img src="https://github.com/user-attachments/assets/eb755303-f27d-4bee-a35d-cb8e7806b919" height="18" style="margin-right:6px;"/>
   <img src="https://github.com/user-attachments/assets/dcbbb554-bf64-476d-8268-1939e61e9a63" height="18" style="margin-right:6px;"/>
+  <img src="https://github.com/user-attachments/assets/1cf525b1-8b5b-412e-b6b9-c08ea7e86bcf" height="18" />
+
 
   <!-- HuggingFace -->
   <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" style="margin-right:6px;"/>
