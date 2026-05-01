@@ -67,7 +67,6 @@ Focused on **performance, clean code, and real-world impact**.
 <img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/24d26e71-070e-48ab-8632-d435438b4b37" />
 
 ![Pinecone](https://img.shields.io/badge/-Pinecone%20Cloud-0A2540?style=flat)
-<img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/0c964a9d-28af-4ddf-b991-154f39e46f08" />
 <img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/da22054a-593d-42e6-b996-93e4b409559f" />
 
 ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat)
@@ -75,8 +74,6 @@ Focused on **performance, clean code, and real-world impact**.
 <img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/eb755303-f27d-4bee-a35d-cb8e7806b919" />
 
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
-<img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/62253865-1e4f-40c2-8811-1883a3c18e47" />
-<img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/4b63d690-36f4-46d0-87a4-96e77593c7b5" />
 <img width="70" height="18" alt="image" src="https://github.com/user-attachments/assets/dcbbb554-bf64-476d-8268-1939e61e9a63" />
 
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
