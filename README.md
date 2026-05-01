@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer;Backend+Developer;Building+Scalable+Systems;Generative+AI+Enthusiast;Open+to+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer+/+Agentic+AI;ML/DL+&+Backend+Developer;Building+Scalable+Systems;Generative+AI+&+Automation+Enthusiast;Open+to+Collaborations" />
 </p>
 
 # 👋 Hi, I'm Aryan Khokale  
@@ -18,7 +18,7 @@ Focused on **performance, clean code, and real-world impact**.
 ## 🧠 About Me  
 
 - 🎓 Engineering student with strong interest in **AI, Backend Development, and System Design**  
-- ⚡ Experienced in building **end-to-end, production-ready applications (Frontend + Backend + Models)**
+- ⚡ Experienced in building **end-to-end, scalable & production-ready applications (Frontend + Backend + Models)**
 - 🤖 Developed **AI agents for automation** and **RAG-based systems** using modern LLM frameworks   
 - 🔥 Passionate about **Generative AI, Computer Vision, and Automation**  
 - ☁️ Experience in deploying scalable systems using **Docker, Kubernetes & Cloud**
@@ -134,19 +134,28 @@ Focused on **performance, clean code, and real-world impact**.
 
 ## 🧩 Problem-Solving & System Design Mindset  
 
- ✔️  **Build → Scale → Optimize** 
- ✔️  **Performance > hype**
- ✔️  **Think in systems, not scripts**  
- ✔️  **Managing trade-offs across speed, expense, and precision** 
- ✔️  **Focus on real-world impact**   
+✔️ **Build → Scale → Optimize** 
+✔️ **Think in systems, not scripts** 
+✔️ **Balancing latency, cost, and accuracy**
+✔️ **Performance > hype**M 
+✔️ **Focus on real-world impact**   
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AryanKhokale&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=AryanKhokale&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanKhokale&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKhokale&theme=tokyo-night&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AryanKhokale/AryanKhokale/output/snake.svg" />
+</p>
 
 ---
 
@@ -182,4 +191,8 @@ Focused on **performance, clean code, and real-world impact**.
 ## ⚡ Signature Line  
 
 > **"I don’t just code — I architect intelligence."**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
 
