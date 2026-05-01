@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aryan%20Khokale&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Backend+Developer;Building+Scalable+Systems;Generative+AI+Enthusiast;Open+to+Collaborations" />
+</p>
+
 # 👋 Hi, I'm Aryan Khokale  
 
 🚀 **Software Engineer | AI/ML Enthusiast | Backend Developer**  
