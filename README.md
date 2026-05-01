@@ -228,8 +228,8 @@ Focused on **performance, clean code, and real-world impact**.
 
 <p align="left">
   <!-- Custom Logos -->
-  <img src="https://github.com/user-attachments/assets/eb755303-f27d-4bee-a35d-cb8e7806b919" height="22" style="margin-right:6px;"/>
-  <img src="https://github.com/user-attachments/assets/dcbbb554-bf64-476d-8268-1939e61e9a63" height="22" style="margin-right:6px;"/>
+  <img src="https://github.com/user-attachments/assets/eb755303-f27d-4bee-a35d-cb8e7806b919" height="18" style="margin-right:6px;"/>
+  <img src="https://github.com/user-attachments/assets/dcbbb554-bf64-476d-8268-1939e61e9a63" height="18" style="margin-right:6px;"/>
 
   <!-- HuggingFace -->
   <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" style="margin-right:6px;"/>
@@ -250,7 +250,7 @@ Focused on **performance, clean code, and real-world impact**.
 ### 🧠 Vector Databases  
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/24d26e71-070e-48ab-8632-d435438b4b37" height="22" style="margin-right:6px;"/>
-  <img src="https://github.com/user-attachments/assets/da22054a-593d-42e6-b996-93e4b409559f" height="22" style="margin-right:6px;"/>
+  <img src="https://github.com/user-attachments/assets/24d26e71-070e-48ab-8632-d435438b4b37" height="18" style="margin-right:6px;"/>
+  <img src="https://github.com/user-attachments/assets/da22054a-593d-42e6-b996-93e4b409559f" height="18" style="margin-right:6px;"/>
   <img src="https://img.shields.io/badge/-FAISS-0467DF?style=flat"/>
 </p>
