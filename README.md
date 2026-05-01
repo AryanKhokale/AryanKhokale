@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Backend+Developer;Building+Scalable+Systems;Generative+AI+Enthusiast;Open+to+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer;Backend+Developer;Building+Scalable+Systems;Generative+AI+Enthusiast;Open+to+Collaborations" />
 </p>
 
 # 👋 Hi, I'm Aryan Khokale  
 
 🚀 **Software Engineer | AI/ML Enthusiast | Backend Developer**  
 
-I build scalable systems, intelligent models, and real-world applications by combining **AI, backend engineering, and cloud infrastructure**.  
-Focused on writing clean, efficient code and solving meaningful problems.
+I design and build **scalable backend systems, AI-powered applications, and production-ready architectures**.  
+Focused on **performance, clean code, and real-world impact**.
 
 ---
 
@@ -20,8 +20,8 @@ Focused on writing clean, efficient code and solving meaningful problems.
 - 🎓 Engineering student with strong interest in **AI, Backend Development, and System Design**  
 - ⚡ Experienced in building **end-to-end applications (Frontend + Backend + ML)**  
 - 🤖 Passionate about **Generative AI, Computer Vision, and Automation**  
-- ☁️ Skilled in deploying scalable apps using **cloud & containerized environments**  
-- 🎯 Goal: Build **high-impact tech with strong real-world usability**  
+- ☁️ Skilled in deploying scalable systems using **Docker, Kubernetes & Cloud**  
+- 🎯 Goal: Build Build **high-impact, scalable tech products**  
 
 ---
 
@@ -63,13 +63,32 @@ Focused on writing clean, efficient code and solving meaningful problems.
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Chroma](https://img.shields.io/badge/-Chroma-5A67D8?style=flat)
+![Pinecone](https://img.shields.io/badge/-Pinecone%20Cloud-0A2540?style=flat)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
 
 ## 🚀 What I’m Working On  
 
-- 🔹 AI-powered applications & automation tools  
-- 🔹 Scalable backend systems using **FastAPI & Java**  
-- 🔹 Real-time data processing & analytics  
+- 🔹  Production-ready **AI systems & Automation Agents**  
+- 🔹 **Transformers & Generative AI**
+- 🔹 **Scalable and Production-grade backend**
+- 🔹 **Cloud-native architecture**
+- 🔹 **Real-time data processing & analytics**  
 - 🔹 Developer tools & productivity systems  
+
+---
+
+## 🧩 Problem-Solving Mindset  
+
+✔️ Build → Scale → Optimize  
+✔️ Think in systems, not scripts  
+✔️ Focus on real-world impact  
+✔️ Performance > hype  
 
 ---
 
@@ -78,15 +97,9 @@ Focused on writing clean, efficient code and solving meaningful problems.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanKhokale&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
 
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKhokale&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
+
 
 ## 🤝 Let’s Collaborate  
 
@@ -118,4 +131,4 @@ Focused on writing clean, efficient code and solving meaningful problems.
 
 ## ⚡ Signature Line  
 
-> **"Build systems that think, scale, and solve."**
+> **"I don’t just code — I architect intelligence."**
