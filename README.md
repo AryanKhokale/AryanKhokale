@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Aryan Khokale  
 
-🚀 **Software Engineer | AI/ML Enthusiast | Backend Developer**  
+🚀 **Software Developer | AI/ML Enthusiast | Backend Developer**  
 
 I design and build **scalable backend systems, AI-powered applications, and production-ready architectures**.  
 Focused on **performance, clean code, and real-world impact**.
@@ -23,7 +23,7 @@ Focused on **performance, clean code, and real-world impact**.
 - 🔥 Passionate about **Generative AI, Computer Vision, and Automation**  
 - ☁️ Experience in deploying scalable systems using **Docker, Kubernetes & Cloud**
 - 📊 Hands-on experience in working with **real-time data pipelines, analytics, and model integration**
-- 📖 Fine-tuning & model adaptation (basic)
+- 📖 Fine-tuning & model adaptation (BASIC)
 - 🎯 Goal: Build Build **high-impact, scalable tech products**  
 
 ---
