@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer+/+Agentic+AI;ML/DL+&+Backend+Developer;Building+Scalable+Systems;Generative+AI+&+Automation+Enthusiast;Open+to+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer+/+Agentic+AI;ML/DL+Developer;Backend+Engineer;Building+Scalable+Systems;Generative+AI+Enthusiast;Open+to+Collaborations" />
 </p>
 
 # 👋 Hi, I'm Aryan Khokale  
@@ -134,33 +134,20 @@ Focused on **performance, clean code, and real-world impact**.
 
 ## 🧩 Problem-Solving & System Design Mindset  
 
-✔️ **Build → Scale → Optimize** 
-✔️ **Think in systems, not scripts** 
-✔️ **Balancing latency, cost, and accuracy**
-✔️ **Performance > hype**M 
-✔️ **Focus on real-world impact**   
+- ✔️ **Build → Scale → Optimize**  
+- ✔️ **Think in systems, not scripts**  
+- ✔️ **Balance latency, cost, and accuracy**  
+- ✔️ **Performance > hype**  
+- ✔️ **Focus on real-world impact**    
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AryanKhokale&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=AryanKhokale&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanKhokale&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKhokale&theme=tokyo-night&hide_border=true"/>
-</p>
-## 🐍 Contribution Snake  
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/AryanKhokale/AryanKhokale/output/snake-dark.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AryanKhokale/AryanKhokale/output/snake.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/AryanKhokale/AryanKhokale/output/snake-dark.svg#gh-dark-mode-only" />
 </p>
 
 ---
