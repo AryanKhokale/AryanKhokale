@@ -7,7 +7,9 @@
 </p>
 
 # 👋 Hi, I'm Aryan Khokale  
-
+<p align="center" style="font-size:22px;">
+ Software Developer | AI Agent Developer | Backend Engineer | GenAI & Automation Enthusiast
+</p>
 **Software Developer | AI Agent Developer | Backend Engineer | GenAI & Automation Enthusiast**  
 
 I design and build **scalable backend systems, AI-powered applications, and production-ready architectures**.  
