@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer+/+Agentic+AI;ML/DL+Developer;Backend+Engineer;Building+Scalable+Systems;Generative+AI+Enthusiast;Open+to+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer+/+Agentic+AI;ML/DL+and+Backend+Developer;Building+Scalable+Systems;Generative+AI/Automation+Enthusiast;Open+to+Collaborations" />
 </p>
 
 # 👋 Hi, I'm Aryan Khokale  
