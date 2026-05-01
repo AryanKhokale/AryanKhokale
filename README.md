@@ -153,8 +153,14 @@ Focused on **performance, clean code, and real-world impact**.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKhokale&theme=tokyo-night&hide_border=true"/>
 </p>
+## 🐍 Contribution Snake  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AryanKhokale/AryanKhokale/output/snake-dark.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AryanKhokale/AryanKhokale/output/snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/AryanKhokale/AryanKhokale/output/snake-dark.svg#gh-dark-mode-only" />
 </p>
 
 ---
