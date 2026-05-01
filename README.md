@@ -10,9 +10,6 @@
 <h3 align="center">
      Software Developer | AI Agent Developer | Backend Engineer | GenAI & Automation Enthusiast
 </h3>
-<p align="center" style="font-size:40px;">
- Software Developer | AI Agent Developer | Backend Engineer | GenAI & Automation Enthusiast
-</p>
 
 
 I design and build **scalable backend systems, AI-powered applications, and production-ready architectures**.  
