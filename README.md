@@ -1,16 +1,141 @@
-## Hi there 👋
+# 👋 Hi, I'm Aryan Khokale  
 
-<!--
-**AryanKhokale/AryanKhokale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | AI/ML Enthusiast | Backend Developer**  
 
-Here are some ideas to get you started:
+I build scalable systems, intelligent models, and real-world applications by combining **AI, backend engineering, and cloud infrastructure**.  
+Focused on writing clean, efficient code and solving meaningful problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me  
+
+- 🎓 Engineering student with strong interest in **AI, Backend Development, and System Design**  
+- ⚡ Experienced in building **end-to-end applications (Frontend + Backend + ML)**  
+- 🤖 Passionate about **Generative AI, Computer Vision, and Automation**  
+- ☁️ Skilled in deploying scalable apps using **cloud & containerized environments**  
+- 🎯 Goal: Build **high-impact tech with strong real-world usability**  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+---
+
+### ⚙️ Backend & APIs  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+---
+
+### 🤖 AI / ML  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black)
+
+---
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
+
+---
+
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+
+---
+
+### ⚡ Big Data & Tools  
+![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=flat&logo=apachespark&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=flat&logo=nvidia&logoColor=green)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
+---
+
+## 🚀 What I’m Working On  
+
+- 🔹 AI-powered applications & automation tools  
+- 🔹 Scalable backend systems using **FastAPI & Java**  
+- 🔹 Real-time data processing & analytics  
+- 🔹 Developer tools & productivity systems  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AryanKhokale&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=AryanKhokale&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanKhokale&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+## 📈 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKhokale&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Let’s Collaborate  
+
+💡 Open to:  
+- AI/ML Projects  
+- Backend Systems  
+- Startup Ideas  
+- Open Source  
+
+---
+
+## 🌐 Connect With Me  
+
+- 💼 Portfolio (coming soon)  
+- 📩 Email: your-email-here  
+- 🔗 LinkedIn: your-linkedin-here  
+
+---
+
+## 👀 Profile Views  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AryanKhokale&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## ⚡ Signature Line  
+
+> **"Build systems that think, scale, and solve."**
