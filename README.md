@@ -100,9 +100,11 @@ Focused on writing clean, efficient code and solving meaningful problems.
 
 ## 🌐 Connect With Me  
 
-- 💼 Portfolio (coming soon)  
-- 📩 Email: your-email-here  
-- 🔗 LinkedIn: your-linkedin-here  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-khokale-4b2159289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.k.20003@gmail.com)   
+
+ -  💼 Portfolio (coming soon)
+
 
 ---
 
