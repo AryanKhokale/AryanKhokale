@@ -24,7 +24,6 @@ Focused on **performance, clean code, and real-world impact**.
 -  Experience in deploying scalable systems using **Docker, Kubernetes & Cloud**
 -  Hands-on experience in working with **real-time data pipelines, analytics, and model integration**
 -  Fine-tuning & model adaptation (BASIC)
--  Goal: Build Build **high-impact, scalable tech products**  
 
 ---
 
