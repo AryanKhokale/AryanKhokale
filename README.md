@@ -79,6 +79,9 @@ Focused on **performance, clean code, and real-world impact**.
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+<img width="70" height="18" alt="image" src="https://github.com/user-attachments/assets/1cf525b1-8b5b-412e-b6b9-c08ea7e86bcf" />
+<img width="70" height="18" alt="image" src="https://github.com/user-attachments/assets/81f79824-d036-4285-91d3-8755cb301555" />
+
 
 ## 🚀 Focused On  
 
