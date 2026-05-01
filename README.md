@@ -126,7 +126,6 @@ Focused on **performance, clean code, and real-world impact**.
 - 🔹 **Cloud-native architecture**
 - 🔹 **Real-time data processing & analytics**  
 - 🔹 **Performance optimization & scalability**
-- 🔹 **Balancing latency, cost, and accuracy**
 - 🔹 **Working with structured & unstructured data**
 - 🔹 **Data preprocessing & Autonomous task execution pipelines**
 
