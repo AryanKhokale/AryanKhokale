@@ -74,12 +74,6 @@ Focused on writing clean, efficient code and solving meaningful problems.
 ---
 
 ## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AryanKhokale&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=AryanKhokale&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanKhokale&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
