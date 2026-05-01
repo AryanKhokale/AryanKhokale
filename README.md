@@ -132,7 +132,7 @@ Focused on **performance, clean code, and real-world impact**.
 ---
 
 ## 🧩 Problem-Solving & System Design Mindset  
-
+**I approach problems with a systems-first mindset, building scalable and impactful solutions, and continuously optimizing them for smoother performance, robustness, and efficiency.**
 - ✔️ **Build → Scale → Optimize**  
 - ✔️ **Think in systems, not scripts**  
 - ✔️ **Balance latency, cost, and accuracy**  
