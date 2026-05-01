@@ -30,7 +30,7 @@ Focused on **performance, clean code, and real-world impact**.
 
 ## ⚡ Tech Stack  
 
-### 💻 Languages  
+###  Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -39,7 +39,7 @@ Focused on **performance, clean code, and real-world impact**.
 
 ---
 
-### ⚙️ Backend & APIs  
+###  Backend & APIs  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -48,7 +48,7 @@ Focused on **performance, clean code, and real-world impact**.
 
 ---
 
-### 🤖 AI / LLM / Gen AI / ML / DL
+###  AI / LLM / Gen AI / ML / DL
 
 <p align="left">
   <!-- Custom Logos -->
@@ -74,7 +74,7 @@ Focused on **performance, clean code, and real-world impact**.
 ---
 
 
-### 🛢️ Vector Databases  
+###  Vector Databases  
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/24d26e71-070e-48ab-8632-d435438b4b37" height="18" style="margin-right:6px; border-radius:6px;"/>
@@ -86,7 +86,7 @@ Focused on **performance, clean code, and real-world impact**.
 ---
 
 
-### 🗄️ Databases  
+###  Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
@@ -96,7 +96,7 @@ Focused on **performance, clean code, and real-world impact**.
 
 ---
 
-### ☁️ Cloud & DevOps  
+###  Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
@@ -108,7 +108,7 @@ Focused on **performance, clean code, and real-world impact**.
 
 ---
 
-### 🛠️ Big Data & Tools  
+###  Big Data & Tools  
 ![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=flat&logo=apachespark&logoColor=black)
 ![CUDA](https://img.shields.io/badge/CUDA-000000?style=flat&logo=nvidia&logoColor=green)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
