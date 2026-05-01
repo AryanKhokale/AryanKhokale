@@ -65,7 +65,7 @@ Focused on **performance, clean code, and real-world impact**.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Chroma](https://img.shields.io/badge/-Chroma-5A67D8?style=flat)
 ![Pinecone](https://img.shields.io/badge/-Pinecone%20Cloud-0A2540?style=flat)
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Pinecone-Full-Logo-Black.svg" height="32" />
+![Pinecone](https://superdevpro.com/logos/pinecone/logo-1.png)
 ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
