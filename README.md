@@ -6,7 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer+/+Agentic+AI;ML/DL+and+Backend+Developer;Building+Scalable+Systems;Generative+AI/Automation+Enthusiast;Open+to+Collaborations" />
 </p>
 
-# 👋 Hi, I'm Aryan Khokale  
+# 👋 Hi, I'm Aryan Khokale
+<h2 align="center">
+🚀 Software Developer | AI Agent Developer | Generative AI & Automation Enthusiast
+</h2>
 <p align="center" style="font-size:40px;">
  Software Developer | AI Agent Developer | Backend Engineer | GenAI & Automation Enthusiast
 </p>
