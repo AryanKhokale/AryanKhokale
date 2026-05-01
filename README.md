@@ -227,9 +227,22 @@ Focused on **performance, clean code, and real-world impact**.
 ### 🤖 AI / LLM / Generative AI  
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/eb755303-f27d-4bee-a35d-cb8e7806b919" height="18"/>
-  <img src="https://github.com/user-attachments/assets/dcbbb554-bf64-476d-8268-1939e61e9a63" height="18"/>
-  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <!-- Custom Logos -->
+  <img src="https://github.com/user-attachments/assets/eb755303-f27d-4bee-a35d-cb8e7806b919" height="22" style="margin-right:6px;"/>
+  <img src="https://github.com/user-attachments/assets/dcbbb554-bf64-476d-8268-1939e61e9a63" height="22" style="margin-right:6px;"/>
+
+  <!-- HuggingFace -->
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" style="margin-right:6px;"/>
+
+  <!-- ML / DL Stack -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" style="margin-right:6px;"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" style="margin-right:6px;"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white" style="margin-right:6px;"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" style="margin-right:6px;"/>
+  <img src="https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv&logoColor=black" style="margin-right:6px;"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" style="margin-right:6px;"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" style="margin-right:6px;"/>
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black"/>
 </p>
 
 ---
@@ -237,7 +250,7 @@ Focused on **performance, clean code, and real-world impact**.
 ### 🧠 Vector Databases  
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/24d26e71-070e-48ab-8632-d435438b4b37" height="18"/>
-  <img src="https://github.com/user-attachments/assets/da22054a-593d-42e6-b996-93e4b409559f" height="18"/>
+  <img src="https://github.com/user-attachments/assets/24d26e71-070e-48ab-8632-d435438b4b37" height="22" style="margin-right:6px;"/>
+  <img src="https://github.com/user-attachments/assets/da22054a-593d-42e6-b996-93e4b409559f" height="22" style="margin-right:6px;"/>
   <img src="https://img.shields.io/badge/-FAISS-0467DF?style=flat"/>
 </p>
