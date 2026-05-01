@@ -77,6 +77,7 @@ Focused on **performance, clean code, and real-world impact**.
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
 <img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/62253865-1e4f-40c2-8811-1883a3c18e47" />
 <img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/4b63d690-36f4-46d0-87a4-96e77593c7b5" />
+<img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/dcbbb554-bf64-476d-8268-1939e61e9a63" />
 
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
