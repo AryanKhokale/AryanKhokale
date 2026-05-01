@@ -11,6 +11,7 @@
      Software Developer | AI Agent Developer | Backend Developer | GenAI & Automation Enthusiast
 </h3>
 
+### Software Developer | AI Agent Developer | Backend Developer | GenAI & Automation Enthusiast
 
 I design and build **scalable backend systems, AI-powered applications, and production-ready architectures**.  
 Focused on **performance, clean code, and real-world impact**.
