@@ -64,12 +64,18 @@ Focused on **performance, clean code, and real-world impact**.
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Chroma](https://img.shields.io/badge/-Chroma-5A67D8?style=flat)
+<img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/24d26e71-070e-48ab-8632-d435438b4b37" />
+
 ![Pinecone](https://img.shields.io/badge/-Pinecone%20Cloud-0A2540?style=flat)
 <img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/0c964a9d-28af-4ddf-b991-154f39e46f08" />
 
 ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
+<img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/eb755303-f27d-4bee-a35d-cb8e7806b919" />
+
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
+<img width="58" height="18" alt="image" src="https://github.com/user-attachments/assets/62253865-1e4f-40c2-8811-1883a3c18e47" />
+
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
