@@ -154,7 +154,7 @@ Focused on **performance, clean code, and real-world impact**.
 ## 🤝 Let’s Collaborate  
 
 💡 Open to:  
-- AI/ML Projects  
+- Agentic AI & Automation/Gen AI/ML/DL Projects  
 - Backend Systems  
 - Startup Ideas  
 - Open Source  
